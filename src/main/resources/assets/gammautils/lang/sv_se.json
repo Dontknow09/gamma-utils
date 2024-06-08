@@ -1,0 +1,56 @@
+{
+    "key.categories.gamma_utils": "Gamma Utils",
+    "key.gamma_utils.gamma_toggle": "Gamma Toggle",
+    "key.gamma_utils.increase_gamma": "Höj Gamma",
+    "key.gamma_utils.decrease_gamma": "Sänk Gamma",
+    "key.gamma_utils.max_gamma": "Maximal Gamma",
+    "key.gamma_utils.min_gamma": "Minimal Gamma",
+    "key.gamma_utils.night_vision_toggle": "Växla Mörkerseende",
+
+    "text.autoconfig.gamma_utils.title": "Gamma Utils Konfiguration",
+
+    "text.autoconfig.gamma_utils.option.defaultGamma": "Standard Gamma Procent",
+    "text.autoconfig.gamma_utils.option.defaultGamma.@Tooltip": "Gammaprocent för när \nmoddet är avaktiverat",
+
+    "text.autoconfig.gamma_utils.option.toggledGamma": "Aktiverad Gamma Procent",
+    "text.autoconfig.gamma_utils.option.toggledGamma.@Tooltip": "Gammaprocent för när \nmoddet är aktiverat",
+
+    "text.autoconfig.gamma_utils.option.smoothTransition": "Jämn Övergång",
+    "text.autoconfig.gamma_utils.option.smoothTransition.@Tooltip": "Make the transition of \ntoggling gamma smoother",
+
+    "text.autoconfig.gamma_utils.option.updateToggle": "Update Toggle Value",
+    "text.autoconfig.gamma_utils.option.updateToggle.@Tooltip": "Enabling this will make the \ntoggle value remember the last \nnon default value you've used",
+
+    "text.autoconfig.gamma_utils.option.showStatusEffect": "Visa Statuseffekt",
+    "text.autoconfig.gamma_utils.option.showStatusEffect.@Tooltip": "Show a status effect when the gamma \npercentage is outside normal range \n- \"High Gamma\" above 100% \n- \"Low Gamma\" below 0%",
+
+    "text.autoconfig.gamma_utils.option.advancedOptions": "Avancerade Inställningar",
+
+    "text.autoconfig.gamma_utils.option.advancedOptions.transitionSpeed": "Transition Speed",
+    "text.autoconfig.gamma_utils.option.advancedOptions.transitionSpeed.@Tooltip": "Speed in gamma percentage per second \n(when Smooth Transition is enabled)",
+
+    "text.autoconfig.gamma_utils.option.advancedOptions.limitCheck": "Limit Check",
+    "text.autoconfig.gamma_utils.option.advancedOptions.limitCheck.@Tooltip": "Should the mod enforce the \nminimum and maximum gamma limits",
+
+    "text.autoconfig.gamma_utils.option.advancedOptions.minGamma": "Minimum Gamma Limit",
+    "text.autoconfig.gamma_utils.option.advancedOptions.minGamma.@Tooltip": "Minimum gamma percentage the mod will \nallow if the Limit Check is enabled",
+
+    "text.autoconfig.gamma_utils.option.advancedOptions.maxGamma": "Maximum Gamma Limit",
+    "text.autoconfig.gamma_utils.option.advancedOptions.maxGamma.@Tooltip": "Maximum gamma percentage the mod will \nallow if the Limit Check is enabled",
+
+    "text.autoconfig.gamma_utils.option.advancedOptions.gammaStep": "Gamma Percentage Step",
+    "text.autoconfig.gamma_utils.option.advancedOptions.gammaStep.@Tooltip": "Gamma percentage change for \nevery increase or decrease",
+
+    "text.autoconfig.gamma_utils.option.advancedOptions.showMessage": "Show Gamma Message",
+    "text.autoconfig.gamma_utils.option.advancedOptions.showMessage.@Tooltip": "Show a message with the new gamma value \nwhen the gamma has changed",
+
+    "text.autoconfig.gamma_utils.option.advancedOptions.resetOnClose": "Reset On Close",
+    "text.autoconfig.gamma_utils.option.advancedOptions.resetOnClose.@Tooltip": "Reset the gamma value to default \nwhen Minecraft closes",
+
+    "text.gamma_utils.message.gamma": "Gamma: %d%%",
+    "text.gamma_utils.message.nightvision.enabled": "Mörkerseende: Av",
+    "text.gamma_utils.message.nightvision.disabled": "Mörkerseende: På",
+
+    "effect.gammautils.bright": "Hög Gamma",
+    "effect.gammautils.dim": "Låg Gamma"
+}
